@@ -25,8 +25,8 @@ public enum DeviceType {
 	   CRESPO("http://http://rootzwiki.com/forum/32-nexus-s-developer-forum/"),
 	   CRESPO4G("http://rootzwiki.com/forum/140-nexus-s-4g-developer-forum/"),
 	   GALAXYS2("http://rootzwiki.com/forum/96-galaxy-s-ii-developer-forum/"),
-	   CDMA_SHADOW("http://rootzwiki.com/forum/16-droid-x-developer-forum");	   
-
+	   CDMA_SHADOW("http://rootzwiki.com/forum/16-droid-x-developer-forum"),	   
+           HERCULES("http://rootzwiki.com/forum/266-t-mobile-galaxy-s-ii-developer-forum/";
 
 	    private final String forumUrl;
 
